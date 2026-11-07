@@ -3,5 +3,5 @@ pandas
 plotly
 sqlalchemy
 psycopg2-binary
-psycopg[binary]
+psycopg-binary
 mysql-connector-python
